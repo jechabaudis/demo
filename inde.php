@@ -2,4 +2,4 @@
 
 phpinfo();
 
-echo "string";
+fdf_get_ap(fdf_document, field, face, filename)
